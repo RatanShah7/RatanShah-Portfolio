@@ -2,6 +2,9 @@
 
 A responsive personal portfolio website showcasing my skills, education, projects, achievements, and contact information.
 
+## Live Demo
+
+https://ratan-shah-portfolio.vercel.app/
 
 ## About
 
